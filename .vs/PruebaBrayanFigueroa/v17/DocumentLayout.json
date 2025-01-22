@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|c:\\users\\campuslands\\source\\repos\\pruebabrayanfigueroa\\services\\pedidosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|solutionrelative:services\\pedidosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|c:\\users\\campuslands\\source\\repos\\pruebabrayanfigueroa\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|solutionrelative:controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|c:\\users\\campuslands\\source\\repos\\pruebabrayanfigueroa\\services\\ipedidosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|solutionrelative:services\\ipedidosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|c:\\users\\campuslands\\source\\repos\\pruebabrayanfigueroa\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|c:\\users\\campuslands\\source\\repos\\pruebabrayanfigueroa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|c:\\users\\campuslands\\source\\repos\\pruebabrayanfigueroa\\models\\pedidoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|solutionrelative:models\\pedidoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|c:\\users\\campuslands\\source\\repos\\pruebabrayanfigueroa\\dto\\pedidosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|solutionrelative:dto\\pedidosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|c:\\users\\campuslands\\source\\repos\\pruebabrayanfigueroa\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D54CEC-C9F4-4AE5-BEEE-CA057FA4E3E7}|PruebaBrayanFigueroa.csproj|solutionrelative:models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:45:07.617Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPedidosService.cs",
+              "DocumentMoniker": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Services\\IPedidosService.cs",
+              "RelativeDocumentMoniker": "Services\\IPedidosService.cs",
+              "ToolTip": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Services\\IPedidosService.cs",
+              "RelativeToolTip": "Services\\IPedidosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:45:53.263Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidosService.cs",
+              "DocumentMoniker": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Services\\PedidosService.cs",
+              "RelativeDocumentMoniker": "Services\\PedidosService.cs",
+              "ToolTip": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Services\\PedidosService.cs",
+              "RelativeToolTip": "Services\\PedidosService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:46:01.936Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Models\\PedidoProducto.cs",
+              "RelativeDocumentMoniker": "Models\\PedidoProducto.cs",
+              "ToolTip": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Models\\PedidoProducto.cs",
+              "RelativeToolTip": "Models\\PedidoProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:23:29.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:18:20.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:11:24.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidosDto.cs",
+              "DocumentMoniker": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Dto\\PedidosDto.cs",
+              "RelativeDocumentMoniker": "Dto\\PedidosDto.cs",
+              "ToolTip": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Dto\\PedidosDto.cs",
+              "RelativeToolTip": "Dto\\PedidosDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:04:24.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Campuslands\\source\\repos\\PruebaBrayanFigueroa\\Models\\Pedido.cs",
+              "RelativeToolTip": "Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:53:31.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
